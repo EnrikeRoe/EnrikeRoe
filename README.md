@@ -57,9 +57,9 @@ Gamified travel journal Android app built solo. Date-driven progression, daily m
 
 ## 📫 Contact
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-enriquemartin.me-1B2A4A?style=flat-square&logo=globe&logoColor=white)](https://enriquemartin.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-EnrikeRoe-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/enrikeroe)
-[![Email](https://img.shields.io/badge/Email-contact@enriquemartin.me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@enriquemartin.me)
+[![Portfolio](https://img.shields.io/badge/Portfolio_enriquemartin.me-1B2A4A?style=flat-square&logo=globe&logoColor=white)](https://enriquemartin.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn_EnrikeRoe-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/enrikeroe)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@enriquemartin.me)
 
 ---
 
