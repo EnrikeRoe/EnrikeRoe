@@ -38,7 +38,7 @@ Currently finishing a **Cybersecurity Technician** certification while working o
 ## 📌 Featured Projects
 
 ### [Wraith Rotator](https://github.com/EnrikeRoe/wraith-rotator)
-CLI tool for Linux that automates public IP rotation through ProtonVPN. Real-time TUI monitor, bilingual interactive installer, distributed as a single self-contained script installable via `curl`.  
+CLI tool for Linux that automates public IP rotation through ProtonVPN. Real-time TUI monitor, bilingual interactive installer, and self-contained single-file script installable via `curl` — Python payloads embedded in base64.
 `Python` `Bash` `OpenVPN` `Linux`
 
 ### [Echo-B](https://github.com/EnrikeRoe/echo-b)
