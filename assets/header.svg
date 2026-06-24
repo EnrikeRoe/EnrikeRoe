@@ -1,0 +1,29 @@
+<svg width="100%" viewBox="0 0 680 200" role="img" xmlns="http://www.w3.org/2000/svg">
+  <title>EnrikeRoe GitHub Profile Header</title>
+  <desc>Header SVG for EnrikeRoe GitHub profile showing name, title and tagline</desc>
+
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&display=swap');
+    .mono { font-family: 'Space Mono', monospace; }
+    @keyframes blink { 0%,100%{opacity:1} 50%{opacity:0} }
+    @keyframes fadeUp { from{opacity:0;transform:translateY(8px)} to{opacity:1;transform:translateY(0)} }
+    .cursor { animation: blink 1.1s step-end infinite; }
+    .a1 { animation: fadeUp 0.5s ease both; }
+    .a2 { animation: fadeUp 0.5s 0.3s ease both; }
+    .a3 { animation: fadeUp 0.5s 0.6s ease both; }
+    .a4 { animation: fadeUp 0.5s 0.9s ease both; }
+    .a5 { animation: fadeUp 0.5s 1.2s ease both; }
+  </style>
+
+  <rect width="680" height="200" fill="#0d1117" rx="6"/>
+  <rect x="0" y="0" width="3" height="200" fill="#00ff88" rx="1"/>
+  <rect x="20" y="18" width="640" height="1" fill="#00ff88" opacity="0.15"/>
+  <rect x="20" y="181" width="640" height="1" fill="#00ff88" opacity="0.15"/>
+
+  <text x="40" y="38" class="mono a1" font-size="11" fill="#00ff88" opacity="0.7" font-weight="400">// EnrikeRoe · github.com/EnrikeRoe</text>
+  <text x="40" y="90" class="mono a2" font-size="42" fill="#e0e0e0" font-weight="700" letter-spacing="-1">Enrique Martín</text>
+  <text x="40" y="118" class="mono a3" font-size="13" fill="#00D4FF" font-weight="400" letter-spacing="2">CYBERSECURITY SPECIALIST  ·  FULL-STACK DEVELOPER</text>
+  <rect x="40" y="134" width="440" height="1" fill="#ffffff" opacity="0.06"/>
+  <text x="40" y="158" class="mono a4" font-size="12" fill="#a0a0a0" font-weight="400">$ echo "Think like an attacker. Build like a defender."</text>
+  <text x="40" y="176" class="mono a5" font-size="12" fill="#00ff88" font-weight="400">Think like an attacker. Build like a defender.<tspan class="cursor" fill="#00ff88"> █</tspan></text>
+</svg>
