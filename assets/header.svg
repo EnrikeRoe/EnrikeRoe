@@ -3,8 +3,7 @@
   <desc>Header SVG for EnrikeRoe GitHub profile showing name, title and tagline</desc>
 
   <style>
-    @import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&display=swap');
-    .mono { font-family: 'Space Mono', monospace; }
+    .mono { font-family: 'Courier New', Courier, monospace; }
     @keyframes blink { 0%,100%{opacity:1} 50%{opacity:0} }
     @keyframes fadeUp { from{opacity:0;transform:translateY(8px)} to{opacity:1;transform:translateY(0)} }
     .cursor { animation: blink 1.1s step-end infinite; }
