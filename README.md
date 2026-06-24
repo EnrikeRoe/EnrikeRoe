@@ -1,66 +1,69 @@
-# Enrique Martín García · EnrikeRoe
+![header](./assets/header.svg)
 
-**Full-Stack Developer · Cybersecurity · Automation**
+![terminal-intro](./assets/terminal-intro.svg)
 
-🇪🇸 [Versión en español](./README_ES.md)
+![divider](./assets/divider.svg)
 
----
+## 📊 GitHub Stats
 
-I build software that works — web platforms, mobile apps, CLI tools, and security-focused utilities. I specialize in the intersection of development and cybersecurity: building secure systems and understanding how to break them.
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=EnrikeRoe&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00D4FF&text_color=a0a0a0&include_all_commits=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnrikeRoe&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=a0a0a0&langs_count=6" />
+</p>
 
-Currently finishing a **Cybersecurity Technician** certification while working on personal tools in the offensive security space.
+![divider](./assets/divider.svg)
 
----
+## 🛠 Stack
 
-## 🛠 Tech Stack
+**Security**
+
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-214478?style=flat-square&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![SQLMap](https://img.shields.io/badge/SQLMap-CC0000?style=flat-square&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
 
 **Development**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
-**Cybersecurity**
-
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-214478?style=flat-square&logo=nmap&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
----
+![divider](./assets/divider.svg)
 
 ## 📌 Featured Projects
 
-### [Wraith Rotator](https://github.com/EnrikeRoe/wraith-rotator)
-CLI tool for Linux that automates public IP rotation through ProtonVPN. Real-time TUI monitor, bilingual interactive installer, and self-contained single-file script installable via `curl` — Python payloads embedded in base64.
-`Python` `Bash` `OpenVPN` `Linux`
+### 🔐 Security
 
-### [Echo-B](https://github.com/EnrikeRoe/echo-b)
-Multi-tenant SaaS chatbot platform with a custom RAG pipeline built without frameworks. Migrated from n8n + Railway to a fully serverless Cloudflare stack — $0/month operating cost. Role-based REST API, embeddable widget, full data isolation per client.  
-`JavaScript` `Cloudflare Workers` `RAG` `LLM`
+| Project | Description | Stack |
+|---|---|---|
+| [Vanta-G](https://github.com/EnrikeRoe/Vanta-G) | Vulnerability management platform with custom ASPS risk-scoring engine, Nmap/Nessus parsers and 5 report formats | `Python` `Flask` `AES-256-GCM` |
+| [Lethe-K](https://github.com/EnrikeRoe/Lethe-K) | Encrypted secrets manager for field use — per-field AES-256-GCM, 4-level kill switch, duress password | `Python` `Flask` `SQLite` |
+| [Wraith Rotator](https://github.com/EnrikeRoe/Wraith-Rotator) | CLI tool for automated public IP rotation via ProtonVPN with iptables kill-switch and real-time TUI monitor | `Python` `Bash` `Linux` |
 
-### [Omoide no Tabi](https://github.com/EnrikeRoe/omoide-no-tabi) *(private — delivering soon)*
-Gamified travel journal Android app built solo. Date-driven progression, daily missions, collectibles, native audio recording. Offline-first with no backend dependency. Distributed as a standalone APK.  
-`React Native` `Expo` `TypeScript` `Android`
+### 💻 Development
 
-### [TrapCraft](https://github.com/EnrikeRoe/trapcraft) *(coming soon)*
-2D platformer built solo in Godot 4. Chunk-based level streaming, signal-driven trap systems, persistent collectibles. Enemy AI with vision detection, adaptive pursuit, wall climbing, and positional teleportation.  
-`Godot 4` `GDScript`
+| Project | Description | Stack |
+|---|---|---|
+| [Echo-B](https://github.com/EnrikeRoe/Echo-B) | Multi-tenant SaaS chatbot platform with custom RAG pipeline — fully serverless, $0/month operating cost | `JavaScript` `Cloudflare Workers` `RAG` |
+| [Omoide no Tabi](https://github.com/EnrikeRoe/Omoide-No-Tabi) | Gamified travel journal Android app — offline-first, date-driven progression, native audio recording | `React Native` `Expo` `TypeScript` |
+| [TrapCraft](https://github.com/EnrikeRoe/TrapCraft) | 2D platformer built solo — chunk-based level streaming, signal-driven traps, adaptive enemy AI | `Godot 4` `GDScript` |
 
----
+![divider](./assets/divider.svg)
 
 ## 📫 Contact
 
-[![Portfolio](https://img.shields.io/badge/Portfolio_enriquemartin.me-1B2A4A?style=flat-square&logo=globe&logoColor=white)](https://enriquemartin.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn_EnrikeRoe-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/enrikeroe)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@enriquemartin.me)
+<p align="center">
+  <a href="https://enriquemartin.me"><img src="https://img.shields.io/badge/Portfolio-enriquemartin.me-0d1117?style=for-the-badge&logo=firefox&logoColor=00ff88&labelColor=161b22" /></a>
+  <a href="https://linkedin.com/in/enrikeroe"><img src="https://img.shields.io/badge/LinkedIn-EnrikeRoe-0d1117?style=for-the-badge&logo=linkedin&logoColor=00D4FF&labelColor=161b22" /></a>
+  <a href="mailto:contact@enriquemartin.me"><img src="https://img.shields.io/badge/Email-contact@enriquemartin.me-0d1117?style=for-the-badge&logo=gmail&logoColor=a0a0a0&labelColor=161b22" /></a>
+</p>
 
----
-
-*Some projects are private or pending publication. More coming.*
+![footer](./assets/footer.svg)
