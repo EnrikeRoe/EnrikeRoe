@@ -16,7 +16,7 @@
 
 ![section-stats](./assets/section-stats.svg)
 
-<table border="0" cellspacing="0" cellpadding="0">
+<table style="border-collapse:collapse;border:none;background:transparent;">
 <tr>
 <td width="50%">
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=EnrikeRoe&show_icons=true&theme=github_dark&hide_border=true&bg_color=09080f&title_color=00d4ff&icon_color=d4af37&text_color=9aa3b2&count_private=true&hide=contribs" />
