@@ -116,9 +116,7 @@
 ![section-contact](./assets/section-contact.svg)
 
 <a href="https://enriquemartin.me"><img src="https://img.shields.io/badge/Portfolio-enriquemartin.me-09080f?style=for-the-badge&logo=firefox&logoColor=00d4ff&labelColor=141a26" /></a>
-<a href="https://linkedin.com/in/enrikeroe">
-  <img src="https://img.shields.io/badge/-EnrikeRoe-09080f?style=social&logo=linkedin" />
-</a>
+<a href="https://linkedin.com/in/enrikeroe"><img src="https://img.shields.io/badge/LinkedIn-EnrikeRoe-09080f?style=for-the-badge&logo=linkedin&logoColor=00d4ff&labelColor=141a26" /></a>
 <a href="mailto:contact@enriquemartin.me"><img src="https://img.shields.io/badge/Email-09080f?style=for-the-badge&logo=gmail&logoColor=d4af37&labelColor=141a26" /></a>
 
 ![footer](./assets/footer.svg)
