@@ -8,6 +8,11 @@
 
 ![terminal-intro](./assets/terminal-intro.svg)
 
+
+<div align="center">
+
+![section-stats](./assets/section-stats.svg)
+
 <table style="border-collapse:collapse;border:none;background:transparent;">
 <tr>
 <td width="50%">
@@ -21,18 +26,9 @@
 
 </div>
 
-![divider](./assets/divider.svg)
-
-<div align="center">
-
-![section-stats](./assets/section-stats.svg)
-
-
 <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnrikeRoe&layout=compact&theme=github_dark&hide_border=true&bg_color=09080f&title_color=00d4ff&text_color=9aa3b2&langs_count=8&count_private=true" />
 
 </div>
-
-![divider](./assets/divider.svg)
 
 <div align="center">
 
@@ -42,8 +38,6 @@
 </picture>
 
 </div>
-
-![divider](./assets/divider.svg)
 
 <div align="center">
 
@@ -62,8 +56,6 @@
 [![Tool Skills](https://skillicons.dev/icons?i=git,github,sqlite,vscode,postman&theme=dark)](https://skillicons.dev)
 
 </div>
-
-![divider](./assets/divider.svg)
 
 <div align="center">
 
