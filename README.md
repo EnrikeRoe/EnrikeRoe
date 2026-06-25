@@ -15,7 +15,7 @@
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=EnrikeRoe&show_icons=true&theme=github_dark&hide_border=true&bg_color=09080f&title_color=00d4ff&icon_color=d4af37&text_color=9aa3b2&count_private=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=EnrikeRoe&theme=github-dark-blue&hide_border=true&background=09080f&ring=00d4ff&fire=d4af37&currStreakLabel=00d4ff&sideLabels=9aa3b2&dates=9aa3b2&currStreakNum=e8eaed&sideNums=e8eaed" />
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnrikeRoe&layout=donut&theme=github_dark&hide_border=true&bg_color=09080f&title_color=00d4ff&text_color=9aa3b2&langs_count=8&count_private=true" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnrikeRoe&layout=compact&theme=github_dark&hide_border=true&bg_color=09080f&title_color=00d4ff&text_color=9aa3b2&langs_count=8&count_private=true" />
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=EnrikeRoe&bg_color=09080f&color=00d4ff&line=00d4ff&point=d4af37&area=true&area_color=00d4ff&hide_border=true" />
 
