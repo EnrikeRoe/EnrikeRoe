@@ -43,11 +43,10 @@
 
   <rect x="40" y="224" width="600" height="1" fill="#2a3344" opacity="0.5"/>
 
-  <text x="40" y="243" class="mono a8" font-size="12" fill="#00d4ff">$ cat tools.txt</text>
-  <text x="40" y="261" class="mono a9" font-size="12" fill="#9aa3b2"><tspan fill="#d4af37">▸</tspan> Burp Suite · Metasploit · Nmap · SQLMap · Wireshark</text>
-  <text x="40" y="279" class="mono a10" font-size="12" fill="#9aa3b2"><tspan fill="#d4af37">▸</tspan> Python · TypeScript · Flask · React · Cloudflare Workers</text>
+  <text x="40" y="243" class="mono a8" font-size="12" fill="#00d4ff">$ cat now.txt</text>
+  <text x="40" y="261" class="mono a9" font-size="12" fill="#9aa3b2"><tspan fill="#d4af37">▸</tspan> ▸ Last audit: 0 critical · 2 high (patched)</text>
 
   <rect x="40" y="292" width="600" height="1" fill="#2a3344" opacity="0.5"/>
 
-  <text x="40" y="303" class="mono a11" font-size="12" fill="#00d4ff">$ <tspan class="cursor">█</tspan></text>
+  <text x="40" y="304" class="mono a11" font-size="12" fill="#00d4ff">$ <tspan class="cursor">█</tspan></text>
 </svg>
