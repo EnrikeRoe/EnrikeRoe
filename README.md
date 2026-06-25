@@ -14,10 +14,6 @@
 
 &nbsp;
 
-![divider](./assets/divider.svg)
-
-&nbsp;
-
 <div align="center">
 
 ![section-stats](./assets/section-stats.svg)
@@ -35,10 +31,6 @@
 
 &nbsp;
 
-![divider](./assets/divider.svg)
-
-&nbsp;
-
 <div align="center">
 
 <picture>
@@ -48,10 +40,6 @@
 </picture>
 
 </div>
-
-&nbsp;
-
-![divider](./assets/divider.svg)
 
 &nbsp;
 
@@ -78,11 +66,7 @@
 [![Hydra](https://img.shields.io/badge/Hydra-1a1a2e?style=for-the-badge&logoColor=white)](https://github.com/vanhauser-thc/thc-hydra)
 [![Autopsy](https://img.shields.io/badge/Autopsy-1B3A4B?style=for-the-badge&logoColor=white)](https://www.autopsy.com)
 
-&nbsp;
-
 💻 **Languages**
-
-&nbsp;
 
 <a href="https://python.org"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="48" /></a>
 <a href="https://typescriptlang.org"><img src="https://skillicons.dev/icons?i=ts&theme=dark" width="48" /></a>
@@ -91,11 +75,7 @@
 <a href="https://developer.mozilla.org/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" /></a>
 <a href="https://developer.mozilla.org/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" /></a>
 
-&nbsp;
-
 ⚙️ **Backend & Infra**
-
-&nbsp;
 
 <a href="https://flask.palletsprojects.com"><img src="https://skillicons.dev/icons?i=flask&theme=dark" width="48" /></a>
 <a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48" /></a>
@@ -106,11 +86,7 @@
 <a href="https://github.com"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" /></a>
 <a href="https://nginx.org"><img src="https://skillicons.dev/icons?i=nginx&theme=dark" width="48" /></a>
 
-&nbsp;
-
 🌐 **Frontend & Mobile**
-
-&nbsp;
 
 <a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" /></a>
 <a href="https://vitejs.dev"><img src="https://skillicons.dev/icons?i=vite&theme=dark" width="48" /></a>
@@ -118,22 +94,14 @@
 <a href="https://developer.android.com"><img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" width="48" /></a>
 <a href="https://expo.dev"><img src="https://skillicons.dev/icons?i=workers&theme=dark" width="48" /></a>
 
-&nbsp;
-
 🗄️ **Databases**
-
-&nbsp;
 
 <a href="https://sqlite.org"><img src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="48" /></a>
 <a href="https://mysql.com"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48" /></a>
 <a href="https://postgresql.org"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48" /></a>
 <a href="https://redis.io"><img src="https://skillicons.dev/icons?i=redis&theme=dark" width="48" /></a>
 
-&nbsp;
-
 🤖 **AI & Automation**
-
-&nbsp;
 
 <a href="https://ollama.com"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="48" /></a>
 <a href="https://n8n.io"><img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="48" /></a>
@@ -143,15 +111,9 @@
 
 🎮 **Game Dev**
 
-&nbsp;
-
 <a href="https://godotengine.org"><img src="https://skillicons.dev/icons?i=godot&theme=dark" width="48" /></a>
 
 </div>
-
-&nbsp;
-
-![divider](./assets/divider.svg)
 
 &nbsp;
 
@@ -159,19 +121,13 @@
 
 ![section-contact](./assets/section-contact.svg)
 
-&nbsp;
-
 <a href="https://enriquemartin.me"><img src="https://skillicons.dev/icons?i=workers&theme=dark" width="40" /></a>
 <a href="https://linkedin.com/in/enrikeroe"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="40" /></a>
 <a href="mailto:contact@enriquemartin.me"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="40" /></a>
 
-&nbsp;
-
 <a href="https://enriquemartin.me"><img src="https://img.shields.io/badge/enriquemartin.me-141a26?style=for-the-badge&logoColor=00d4ff" /></a>
 <a href="https://linkedin.com/in/enrikeroe"><img src="https://img.shields.io/badge/EnrikeRoe-141a26?style=for-the-badge&logoColor=00d4ff" /></a>
 <a href="mailto:contact@enriquemartin.me"><img src="https://img.shields.io/badge/contact@enriquemartin.me-141a26?style=for-the-badge&logoColor=d4af37" /></a>
-
-&nbsp;
 
 ![footer](./assets/footer.svg)
 
