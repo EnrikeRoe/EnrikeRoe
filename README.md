@@ -3,181 +3,109 @@ cat << 'EOF' > /home/claude/README.md
 
 ![header](./assets/header.svg)
 
-&nbsp;
-
-![Profile Views](https://komarev.com/ghpvc/?username=EnrikeRoe&style=flat-square&color=00d4ff&labelColor=141a26&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/EnrikeRoe?style=flat-square&color=a855f7&labelColor=141a26&label=FOLLOWERS)
-![Stars](https://img.shields.io/github/stars/EnrikeRoe?style=flat-square&color=d4af37&labelColor=141a26&label=STARS)
-
-&nbsp;
-
 ![terminal-intro](./assets/terminal-intro.svg)
 
 </div>
 
-&nbsp;
-
 ![divider](./assets/divider.svg)
-
-&nbsp;
 
 <div align="center">
 
 ![section-stats](./assets/section-stats.svg)
 
-&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=EnrikeRoe&show_icons=true&theme=github_dark&hide_border=true&bg_color=09080f&title_color=00d4ff&icon_color=d4af37&text_color=9aa3b2&include_all_commits=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnrikeRoe&layout=compact&theme=github_dark&hide_border=true&bg_color=09080f&title_color=00d4ff&text_color=9aa3b2&langs_count=6" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=EnrikeRoe&show_icons=true&theme=github_dark&hide_border=true&bg_color=09080f&title_color=00d4ff&icon_color=d4af37&text_color=9aa3b2&count_private=true" />
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=EnrikeRoe&theme=github-dark-blue&hide_border=true&background=09080f&ring=00d4ff&fire=d4af37&currStreakLabel=00d4ff&sideLabels=9aa3b2&dates=9aa3b2&currStreakNum=e8eaed&sideNums=e8eaed" />
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=EnrikeRoe&theme=github-dark-blue&hide_border=true&background=09080f&ring=00d4ff&fire=d4af37&currStreakLabel=00d4ff&sideLabels=9aa3b2&dates=9aa3b2&currStreakNum=e8eaed&sideNums=e8eaed" />
 
-&nbsp;
-
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnrikeRoe&layout=compact&theme=github_dark&hide_border=true&bg_color=09080f&title_color=00d4ff&text_color=9aa3b2&langs_count=8&count_private=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=EnrikeRoe&bg_color=09080f&color=00d4ff&line=00d4ff&point=d4af37&area=true&area_color=00d4ff&hide_border=true" />
 
 </div>
 
-&nbsp;
-
 ![divider](./assets/divider.svg)
-
-&nbsp;
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EnrikeRoe/EnrikeRoe/output/pacman-contribution-graph-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EnrikeRoe/EnrikeRoe/output/pacman-contribution-graph.svg" />
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/EnrikeRoe/EnrikeRoe/output/pacman-contribution-graph-dark.svg" />
-</picture>
-
-</div>
-
-&nbsp;
-
-![divider](./assets/divider.svg)
-
-&nbsp;
 
 <div align="center">
 
 ![section-stack](./assets/section-stack.svg)
 
-&nbsp;
-
-🔐 **Security**
-
-&nbsp;
-
-[![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)](https://portswigger.net/burp)
-[![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logoColor=white)](https://www.metasploit.com)
-[![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logoColor=white)](https://nmap.org)
-[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org)
-[![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org)
-[![SQLMap](https://img.shields.io/badge/SQLMap-CC0000?style=for-the-badge&logoColor=white)](https://sqlmap.org)
-[![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)](https://owasp.org)
-[![BloodHound](https://img.shields.io/badge/BloodHound-CC0000?style=for-the-badge&logoColor=white)](https://github.com/BloodHoundAD/BloodHound)
-[![Hashcat](https://img.shields.io/badge/Hashcat-000000?style=for-the-badge&logoColor=white)](https://hashcat.net)
-[![John the Ripper](https://img.shields.io/badge/John_the_Ripper-8B0000?style=for-the-badge&logoColor=white)](https://www.openwall.com/john)
-[![Hydra](https://img.shields.io/badge/Hydra-1a1a2e?style=for-the-badge&logoColor=white)](https://github.com/vanhauser-thc/thc-hydra)
-[![Autopsy](https://img.shields.io/badge/Autopsy-1B3A4B?style=for-the-badge&logoColor=white)](https://www.autopsy.com)
-
-&nbsp;
-
-💻 **Languages**
-
-&nbsp;
-
-<a href="https://python.org"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="48" /></a>
-<a href="https://typescriptlang.org"><img src="https://skillicons.dev/icons?i=ts&theme=dark" width="48" /></a>
-<a href="https://javascript.info"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" /></a>
-<a href="https://www.gnu.org/software/bash"><img src="https://skillicons.dev/icons?i=bash&theme=dark" width="48" /></a>
-<a href="https://developer.mozilla.org/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" /></a>
-<a href="https://developer.mozilla.org/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" /></a>
-
-&nbsp;
-
-⚙️ **Backend & Infra**
-
-&nbsp;
-
-<a href="https://flask.palletsprojects.com"><img src="https://skillicons.dev/icons?i=flask&theme=dark" width="48" /></a>
-<a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48" /></a>
-<a href="https://docker.com"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" /></a>
-<a href="https://cloudflare.com"><img src="https://skillicons.dev/icons?i=cloudflare&theme=dark" width="48" /></a>
-<a href="https://linux.org"><img src="https://skillicons.dev/icons?i=linux&theme=dark" width="48" /></a>
-<a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" /></a>
-<a href="https://github.com"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" /></a>
-<a href="https://nginx.org"><img src="https://skillicons.dev/icons?i=nginx&theme=dark" width="48" /></a>
-
-&nbsp;
-
-🌐 **Frontend & Mobile**
-
-&nbsp;
-
-<a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" /></a>
-<a href="https://vitejs.dev"><img src="https://skillicons.dev/icons?i=vite&theme=dark" width="48" /></a>
-<a href="https://tailwindcss.com"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="48" /></a>
-<a href="https://developer.android.com"><img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" width="48" /></a>
-<a href="https://expo.dev"><img src="https://skillicons.dev/icons?i=workers&theme=dark" width="48" /></a>
-
-&nbsp;
-
-🗄️ **Databases**
-
-&nbsp;
-
-<a href="https://sqlite.org"><img src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="48" /></a>
-<a href="https://mysql.com"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48" /></a>
-<a href="https://postgresql.org"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48" /></a>
-<a href="https://redis.io"><img src="https://skillicons.dev/icons?i=redis&theme=dark" width="48" /></a>
-
-&nbsp;
-
-🤖 **AI & Automation**
-
-&nbsp;
-
-<a href="https://ollama.com"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="48" /></a>
-<a href="https://n8n.io"><img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="48" /></a>
-<a href="https://github.com/EnrikeRoe"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="48" /></a>
-
-&nbsp;
-
-🎮 **Game Dev**
-
-&nbsp;
-
-<a href="https://godotengine.org"><img src="https://skillicons.dev/icons?i=godot&theme=dark" width="48" /></a>
-
 </div>
 
-&nbsp;
+**`// Security`**
+
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-214478?style=flat-square&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![SQLMap](https://img.shields.io/badge/SQLMap-CC0000?style=flat-square&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
+![Hashcat](https://img.shields.io/badge/Hashcat-000000?style=flat-square&logoColor=white)
+![BloodHound](https://img.shields.io/badge/BloodHound-CC0000?style=flat-square&logoColor=white)
+
+**`// Development`**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+
+**`// Tools & Infra`**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ![divider](./assets/divider.svg)
 
-&nbsp;
+<div align="center">
+
+![section-security](./assets/section-security.svg)
+
+</div>
+
+| Project | Description | Stack | Status |
+|---|---|---|---|
+| [Vanta-G](https://github.com/EnrikeRoe/Vanta-G) | Vulnerability management platform with custom ASPS risk-scoring engine, Nmap/Nessus parsers, CISA KEV integration and 5 report formats including Ghost Mode | `Python` `Flask` `AES-256-GCM` `SQLite` | 🔒 Showcase |
+| [Lethe-K](https://github.com/EnrikeRoe/Lethe-K) | Encrypted secrets manager for field use — per-field AES-256-GCM, PBKDF2 600k iterations, 4-level kill switch with duress password, 308 tests | `Python` `Flask` `SQLite` | ✅ Public |
+| [Wraith Rotator](https://github.com/EnrikeRoe/Wraith-Rotator) | CLI tool for automated public IP rotation via ProtonVPN with iptables kill-switch, real-time TUI monitor and self-contained installer via `curl` | `Python` `Bash` `Linux` | ✅ Public |
+
+![divider](./assets/divider.svg)
+
+<div align="center">
+
+![section-dev](./assets/section-dev.svg)
+
+</div>
+
+| Project | Description | Stack | Status |
+|---|---|---|---|
+| [Echo-B](https://github.com/EnrikeRoe/Echo-B) | Multi-tenant SaaS chatbot platform with custom RAG pipeline — fully serverless Cloudflare stack, $0/month operating cost, role-based API, embeddable widget | `JavaScript` `Cloudflare Workers` `RAG` | 🔒 Showcase |
+| [Omoide no Tabi](https://github.com/EnrikeRoe/Omoide-No-Tabi) | Gamified travel journal Android app built solo — date-driven progression, daily missions, collectibles, native audio recording, offline-first, no backend | `React Native` `Expo` `TypeScript` | 🔒 Showcase |
+| [TrapCraft](https://github.com/EnrikeRoe/TrapCraft) | 2D platformer built solo — chunk-based level streaming, signal-driven trap systems, adaptive enemy AI with vision detection and wall climbing | `Godot 4` `GDScript` | 🔒 Showcase |
+| [Pulse](https://github.com/EnrikeRoe/Pulse) | Family emergency alert app — single button triggers max-volume alarm bypassing silent mode via FCM, WiFi sockets and BLE | `React Native` `Firebase` | 🚧 WIP |
+
+![divider](./assets/divider.svg)
 
 <div align="center">
 
 ![section-contact](./assets/section-contact.svg)
 
-&nbsp;
-
-<a href="https://enriquemartin.me"><img src="https://skillicons.dev/icons?i=workers&theme=dark" width="40" /></a>
-<a href="https://linkedin.com/in/enrikeroe"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="40" /></a>
-<a href="mailto:contact@enriquemartin.me"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="40" /></a>
-
-&nbsp;
-
-<a href="https://enriquemartin.me"><img src="https://img.shields.io/badge/enriquemartin.me-141a26?style=for-the-badge&logoColor=00d4ff" /></a>
-<a href="https://linkedin.com/in/enrikeroe"><img src="https://img.shields.io/badge/EnrikeRoe-141a26?style=for-the-badge&logoColor=00d4ff" /></a>
-<a href="mailto:contact@enriquemartin.me"><img src="https://img.shields.io/badge/contact@enriquemartin.me-141a26?style=for-the-badge&logoColor=d4af37" /></a>
-
-&nbsp;
+<a href="https://enriquemartin.me"><img src="https://img.shields.io/badge/Portfolio-enriquemartin.me-09080f?style=for-the-badge&logo=firefox&logoColor=00d4ff&labelColor=141a26" /></a>
+<a href="https://linkedin.com/in/enrikeroe"><img src="https://img.shields.io/badge/LinkedIn-EnrikeRoe-09080f?style=for-the-badge&logo=linkedin&logoColor=00d4ff&labelColor=141a26" /></a>
+<a href="mailto:contact@enriquemartin.me"><img src="https://img.shields.io/badge/Email-contact@enriquemartin.me-09080f?style=for-the-badge&logo=gmail&logoColor=d4af37&labelColor=141a26" /></a>
 
 ![footer](./assets/footer.svg)
 
 </div>
 EOF
 echo "OK"
+Salida
+
+OK
