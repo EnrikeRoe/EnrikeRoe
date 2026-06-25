@@ -1,7 +1,5 @@
 <svg width="100%" viewBox="0 0 680 310" role="img" xmlns="http://www.w3.org/2000/svg">
   <title>EnrikeRoe Terminal Introduction</title>
-  <desc>Terminal-style about section for EnrikeRoe GitHub profile</desc>
-
   <style>
     .mono { font-family: 'Courier New', Courier, monospace; }
     @keyframes blink { 0%,100%{opacity:1} 50%{opacity:0} }
@@ -20,40 +18,36 @@
     .a11 { animation: fadeIn 0.3s 3.2s ease both; }
   </style>
 
-  <rect width="680" height="310" fill="#0d1117" rx="6"/>
-
-  <rect x="0" y="0" width="680" height="36" fill="#161b22" rx="6"/>
-  <rect x="0" y="18" width="680" height="18" fill="#161b22"/>
+  <rect width="680" height="310" fill="#09080f" rx="6"/>
+  <rect x="0" y="0" width="680" height="36" fill="#141a26" rx="6"/>
+  <rect x="0" y="18" width="680" height="18" fill="#141a26"/>
   <circle cx="24" cy="18" r="6" fill="#ff5f57"/>
   <circle cx="44" cy="18" r="6" fill="#febc2e"/>
   <circle cx="64" cy="18" r="6" fill="#28c840"/>
-  <text x="340" y="23" class="mono" font-size="11" fill="#666" text-anchor="middle">bash · ~/enrikeroe</text>
+  <text x="340" y="23" class="mono" font-size="11" fill="#9aa3b2" text-anchor="middle">bash · ~/enrikeroe</text>
+  <rect x="20" y="50" width="640" height="1" fill="#2a3344"/>
 
-  <rect x="20" y="50" width="640" height="1" fill="#00ff88" opacity="0.08"/>
+  <text x="40" y="75" class="mono a1" font-size="12" fill="#00d4ff">$ whoami</text>
+  <text x="40" y="93" class="mono a2" font-size="12" fill="#9aa3b2"><tspan fill="#d4af37">▸</tspan> enrikeroe — Cybersecurity Specialist &amp; Full-Stack Developer</text>
 
-  <text x="40" y="75" class="mono a1" font-size="12" fill="#00ff88" font-weight="400">$ whoami</text>
-  <text x="40" y="93" class="mono a2" font-size="12" fill="#a0a0a0">
-    <tspan fill="#00D4FF">▸</tspan> enrikeroe — Cybersecurity Specialist &amp; Full-Stack Developer
-  </text>
+  <rect x="40" y="106" width="600" height="1" fill="#2a3344" opacity="0.5"/>
 
-  <rect x="40" y="106" width="600" height="1" fill="#ffffff" opacity="0.04"/>
+  <text x="40" y="125" class="mono a3" font-size="12" fill="#00d4ff">$ cat approach.txt</text>
+  <text x="40" y="143" class="mono a4" font-size="12" fill="#9aa3b2"><tspan fill="#d4af37">▸</tspan> Think like an attacker. Build like a defender.</text>
 
-  <text x="40" y="125" class="mono a3" font-size="12" fill="#00ff88">$ cat approach.txt</text>
-  <text x="40" y="143" class="mono a4" font-size="12" fill="#a0a0a0"><tspan fill="#00D4FF">▸</tspan> Think like an attacker. Build like a defender.</text>
+  <rect x="40" y="156" width="600" height="1" fill="#2a3344" opacity="0.5"/>
 
-  <rect x="40" y="156" width="600" height="1" fill="#ffffff" opacity="0.04"/>
+  <text x="40" y="175" class="mono a5" font-size="12" fill="#00d4ff">$ cat status.txt</text>
+  <text x="40" y="193" class="mono a6" font-size="12" fill="#9aa3b2"><tspan fill="#d4af37">▸</tspan> Open to work · Remote / On-site</text>
+  <text x="40" y="211" class="mono a7" font-size="12" fill="#9aa3b2"><tspan fill="#d4af37">▸</tspan> Penetration Testing · AppSec · Vulnerability Management</text>
 
-  <text x="40" y="175" class="mono a5" font-size="12" fill="#00ff88">$ cat status.txt</text>
-  <text x="40" y="193" class="mono a6" font-size="12" fill="#a0a0a0"><tspan fill="#00D4FF">▸</tspan> Open to work · Remote / On-site</text>
-  <text x="40" y="211" class="mono a7" font-size="12" fill="#a0a0a0"><tspan fill="#00D4FF">▸</tspan> Penetration Testing · AppSec · Vulnerability Management</text>
+  <rect x="40" y="224" width="600" height="1" fill="#2a3344" opacity="0.5"/>
 
-  <rect x="40" y="224" width="600" height="1" fill="#ffffff" opacity="0.04"/>
+  <text x="40" y="243" class="mono a8" font-size="12" fill="#00d4ff">$ cat tools.txt</text>
+  <text x="40" y="261" class="mono a9" font-size="12" fill="#9aa3b2"><tspan fill="#d4af37">▸</tspan> Burp Suite · Metasploit · Nmap · SQLMap · Wireshark</text>
+  <text x="40" y="279" class="mono a10" font-size="12" fill="#9aa3b2"><tspan fill="#d4af37">▸</tspan> Python · TypeScript · Flask · React · Cloudflare Workers</text>
 
-  <text x="40" y="243" class="mono a8" font-size="12" fill="#00ff88">$ cat tools.txt</text>
-  <text x="40" y="261" class="mono a9" font-size="12" fill="#a0a0a0"><tspan fill="#00D4FF">▸</tspan> Burp Suite · Metasploit · Nmap · SQLMap · Wireshark</text>
-  <text x="40" y="279" class="mono a10" font-size="12" fill="#a0a0a0"><tspan fill="#00D4FF">▸</tspan> Python · TypeScript · Flask · React · Cloudflare Workers</text>
+  <rect x="40" y="292" width="600" height="1" fill="#2a3344" opacity="0.5"/>
 
-  <rect x="40" y="292" width="600" height="1" fill="#ffffff" opacity="0.04"/>
-
-  <text x="40" y="303" class="mono a11" font-size="12" fill="#00ff88">$ <tspan class="cursor">█</tspan></text>
+  <text x="40" y="303" class="mono a11" font-size="12" fill="#00d4ff">$ <tspan class="cursor">█</tspan></text>
 </svg>
