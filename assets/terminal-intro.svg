@@ -1,4 +1,4 @@
-<svg width="100%" viewBox="0 0 680 310" role="img" xmlns="http://www.w3.org/2000/svg">
+<svg width="100%" viewBox="0 0 680 280"" role="img" xmlns="http://www.w3.org/2000/svg">
   <title>EnrikeRoe Terminal Introduction</title>
   <style>
     .mono { font-family: 'Courier New', Courier, monospace; }
@@ -18,7 +18,7 @@
     .a11 { animation: fadeIn 0.3s 3.2s ease both; }
   </style>
 
-  <rect width="680" height="310" fill="#09080f" rx="6"/>
+ <rect width="680" height="280" fill="#09080f" rx="6"/>
   <rect x="0" y="0" width="680" height="36" fill="#141a26" rx="6"/>
   <rect x="0" y="18" width="680" height="18" fill="#141a26"/>
   <circle cx="24" cy="18" r="6" fill="#ff5f57"/>
@@ -44,7 +44,7 @@
   <rect x="40" y="224" width="600" height="1" fill="#2a3344" opacity="0.5"/>
 
   <text x="40" y="243" class="mono a8" font-size="12" fill="#00d4ff">$ cat now.txt</text>
-  <text x="40" y="261" class="mono a9" font-size="12" fill="#9aa3b2"><tspan fill="#d4af37">▸</tspan> ▸ Last audit: 0 critical · 2 high (patched)</text>
+  <text x="40" y="261" class="mono a9" font-size="12" fill="#9aa3b2"><tspan fill="#d4af37">▸</tspan> Last audit: 0 critical · 2 high (patched)</text>
 
   <rect x="40" y="292" width="600" height="1" fill="#2a3344" opacity="0.5"/>
 
