@@ -43,15 +43,15 @@
 
 ![section-stack](./assets/section-stack.svg)
 
-**`// Security`**
+**`🔐 **Security**`**
 
 [![Security Skills](https://skillicons.dev/icons?i=kali,linux,bash,vim&theme=dark)](https://skillicons.dev)
 
-**`// Development`**
+**`💻 **Development**`**
 
 [![Dev Skills](https://skillicons.dev/icons?i=python,typescript,javascript,flask,react,nodejs,docker,cloudflare&theme=dark)](https://skillicons.dev)
 
-**`// Tools`**
+**`🔧 **Tools**`**
 
 [![Tool Skills](https://skillicons.dev/icons?i=git,github,sqlite,vscode,postman&theme=dark)](https://skillicons.dev)
 
