@@ -1,7 +1,5 @@
 <svg width="100%" viewBox="0 0 680 90" role="img" xmlns="http://www.w3.org/2000/svg">
   <title>EnrikeRoe GitHub Profile Footer</title>
-  <desc>Footer with contact links for EnrikeRoe GitHub profile</desc>
-
   <style>
     .mono { font-family: 'Courier New', Courier, monospace; }
     @keyframes fadeIn { from{opacity:0} to{opacity:1} }
@@ -10,11 +8,15 @@
     .a3 { animation: fadeIn 0.5s 0.8s ease both; }
   </style>
 
-  <rect width="680" height="90" fill="#0d1117" rx="6"/>
-  <rect x="0" y="0" width="680" height="1" fill="#00ff88" opacity="0.15"/>
-  <rect x="0" y="89" width="3" height="90" fill="#00ff88" rx="1"/>
+  <rect width="680" height="90" fill="#09080f" rx="6"/>
+  <rect x="0" y="0" width="680" height="1" fill="#2a3344"/>
+  <rect x="0" y="0" width="3" height="90" fill="#00d4ff" rx="1"/>
+  <rect x="677" y="0" width="3" height="90" fill="#00d4ff" rx="1"/>
 
-  <text x="340" y="32" class="mono a1" font-size="11" fill="#00ff88" opacity="0.5" text-anchor="middle" font-weight="400">// enriquemartin.me · linkedin.com/in/enrikeroe · contact@enriquemartin.me</text>
-  <text x="340" y="56" class="mono a2" font-size="13" fill="#e0e0e0" text-anchor="middle" font-weight="400">Think like an attacker. Build like a defender.</text>
-  <text x="340" y="76" class="mono a3" font-size="10" fill="#444" text-anchor="middle">© 2026 Enrique Martín García</text>
+  <rect x="0" y="0" width="12" height="1" fill="#00d4ff" opacity="0.6"/>
+  <rect x="668" y="0" width="12" height="1" fill="#00d4ff" opacity="0.6"/>
+
+  <text x="340" y="32" class="mono a1" font-size="11" fill="#9aa3b2" opacity="0.6" text-anchor="middle">// enriquemartin.me · linkedin.com/in/enrikeroe · contact@enriquemartin.me</text>
+  <text x="340" y="56" class="mono a2" font-size="13" fill="#d4af37" text-anchor="middle">Think like an attacker. Build like a defender.</text>
+  <text x="340" y="76" class="mono a3" font-size="10" fill="#2a3344" text-anchor="middle">© 2026 Enrique Martín García</text>
 </svg>
