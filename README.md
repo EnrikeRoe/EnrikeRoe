@@ -115,7 +115,7 @@
 
 ![section-contact](./assets/section-contact.svg)
 
-<p align="left">
+<p align="center">
   <a href="https://enriquemartin.me">
     <img src="https://img.shields.io/badge/Portfolio-enriquemartin.me-09080f?style=for-the-badge&logo=firefox&logoColor=00d4ff&labelColor=141a26" alt="Portfolio" />
   </a>
