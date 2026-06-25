@@ -1,69 +1,180 @@
+<div align="center">
+
 ![header](./assets/header.svg)
+
+&nbsp;
+
+![Profile Views](https://komarev.com/ghpvc/?username=EnrikeRoe&style=flat-square&color=00d4ff&labelColor=141a26&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/EnrikeRoe?style=flat-square&color=a855f7&labelColor=141a26&label=FOLLOWERS)
+![Stars](https://img.shields.io/github/stars/EnrikeRoe?style=flat-square&color=d4af37&labelColor=141a26&label=STARS)
+
+&nbsp;
 
 ![terminal-intro](./assets/terminal-intro.svg)
 
-![divider](./assets/divider.svg)
+</div>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=EnrikeRoe&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00D4FF&text_color=a0a0a0&include_all_commits=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnrikeRoe&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=a0a0a0&langs_count=6" />
-</p>
+&nbsp;
 
 ![divider](./assets/divider.svg)
 
-## 🛠 Stack
+&nbsp;
 
-**Security**
+<div align="center">
 
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-214478?style=flat-square&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![SQLMap](https://img.shields.io/badge/SQLMap-CC0000?style=flat-square&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
+![section-stats](./assets/section-stats.svg)
 
-**Development**
+&nbsp;
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=EnrikeRoe&show_icons=true&theme=github_dark&hide_border=true&bg_color=09080f&title_color=00d4ff&icon_color=d4af37&text_color=9aa3b2&count_private=true" />
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=EnrikeRoe&theme=github-dark-blue&hide_border=true&background=09080f&ring=00d4ff&fire=d4af37&currStreakLabel=00d4ff&sideLabels=9aa3b2&dates=9aa3b2&currStreakNum=e8eaed&sideNums=e8eaed" />
+
+&nbsp;
+
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnrikeRoe&layout=compact&theme=github_dark&hide_border=true&bg_color=09080f&title_color=00d4ff&text_color=9aa3b2&langs_count=8&count_private=true" />
+
+</div>
+
+&nbsp;
 
 ![divider](./assets/divider.svg)
 
-## 📌 Featured Projects
+&nbsp;
 
-### 🔐 Security
+<div align="center">
 
-| Project | Description | Stack |
-|---|---|---|
-| [Vanta-G](https://github.com/EnrikeRoe/Vanta-G) | Vulnerability management platform with custom ASPS risk-scoring engine, Nmap/Nessus parsers and 5 report formats | `Python` `Flask` `AES-256-GCM` |
-| [Lethe-K](https://github.com/EnrikeRoe/Lethe-K) | Encrypted secrets manager for field use — per-field AES-256-GCM, 4-level kill switch, duress password | `Python` `Flask` `SQLite` |
-| [Wraith Rotator](https://github.com/EnrikeRoe/Wraith-Rotator) | CLI tool for automated public IP rotation via ProtonVPN with iptables kill-switch and real-time TUI monitor | `Python` `Bash` `Linux` |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EnrikeRoe/EnrikeRoe/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EnrikeRoe/EnrikeRoe/output/pacman-contribution-graph.svg" />
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/EnrikeRoe/EnrikeRoe/output/pacman-contribution-graph-dark.svg" />
+</picture>
 
-### 💻 Development
+</div>
 
-| Project | Description | Stack |
-|---|---|---|
-| [Echo-B](https://github.com/EnrikeRoe/Echo-B) | Multi-tenant SaaS chatbot platform with custom RAG pipeline — fully serverless, $0/month operating cost | `JavaScript` `Cloudflare Workers` `RAG` |
-| [Omoide no Tabi](https://github.com/EnrikeRoe/Omoide-No-Tabi) | Gamified travel journal Android app — offline-first, date-driven progression, native audio recording | `React Native` `Expo` `TypeScript` |
-| [TrapCraft](https://github.com/EnrikeRoe/TrapCraft) | 2D platformer built solo — chunk-based level streaming, signal-driven traps, adaptive enemy AI | `Godot 4` `GDScript` |
+&nbsp;
 
 ![divider](./assets/divider.svg)
 
-## 📫 Contact
+&nbsp;
 
-<p align="center">
-  <a href="https://enriquemartin.me"><img src="https://img.shields.io/badge/Portfolio-enriquemartin.me-0d1117?style=for-the-badge&logo=firefox&logoColor=00ff88&labelColor=161b22" /></a>
-  <a href="https://linkedin.com/in/enrikeroe"><img src="https://img.shields.io/badge/LinkedIn-EnrikeRoe-0d1117?style=for-the-badge&logo=linkedin&logoColor=00D4FF&labelColor=161b22" /></a>
-  <a href="mailto:contact@enriquemartin.me"><img src="https://img.shields.io/badge/Email-contact@enriquemartin.me-0d1117?style=for-the-badge&logo=gmail&logoColor=a0a0a0&labelColor=161b22" /></a>
-</p>
+<div align="center">
+
+![section-stack](./assets/section-stack.svg)
+
+&nbsp;
+
+🔐 **Security**
+
+&nbsp;
+
+[![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)](https://portswigger.net/burp)
+[![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logoColor=white)](https://www.metasploit.com)
+[![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logoColor=white)](https://nmap.org)
+[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org)
+[![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org)
+[![SQLMap](https://img.shields.io/badge/SQLMap-CC0000?style=for-the-badge&logoColor=white)](https://sqlmap.org)
+[![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)](https://owasp.org)
+[![BloodHound](https://img.shields.io/badge/BloodHound-CC0000?style=for-the-badge&logoColor=white)](https://github.com/BloodHoundAD/BloodHound)
+[![Hashcat](https://img.shields.io/badge/Hashcat-000000?style=for-the-badge&logoColor=white)](https://hashcat.net)
+[![John the Ripper](https://img.shields.io/badge/John_the_Ripper-8B0000?style=for-the-badge&logoColor=white)](https://www.openwall.com/john)
+[![Hydra](https://img.shields.io/badge/Hydra-1a1a2e?style=for-the-badge&logoColor=white)](https://github.com/vanhauser-thc/thc-hydra)
+[![Autopsy](https://img.shields.io/badge/Autopsy-1B3A4B?style=for-the-badge&logoColor=white)](https://www.autopsy.com)
+
+&nbsp;
+
+💻 **Languages**
+
+&nbsp;
+
+<a href="https://python.org"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="48" /></a>
+<a href="https://typescriptlang.org"><img src="https://skillicons.dev/icons?i=ts&theme=dark" width="48" /></a>
+<a href="https://javascript.info"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" /></a>
+<a href="https://www.gnu.org/software/bash"><img src="https://skillicons.dev/icons?i=bash&theme=dark" width="48" /></a>
+<a href="https://developer.mozilla.org/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" /></a>
+<a href="https://developer.mozilla.org/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" /></a>
+
+&nbsp;
+
+⚙️ **Backend & Infra**
+
+&nbsp;
+
+<a href="https://flask.palletsprojects.com"><img src="https://skillicons.dev/icons?i=flask&theme=dark" width="48" /></a>
+<a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48" /></a>
+<a href="https://docker.com"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" /></a>
+<a href="https://cloudflare.com"><img src="https://skillicons.dev/icons?i=cloudflare&theme=dark" width="48" /></a>
+<a href="https://linux.org"><img src="https://skillicons.dev/icons?i=linux&theme=dark" width="48" /></a>
+<a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" /></a>
+<a href="https://github.com"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" /></a>
+<a href="https://nginx.org"><img src="https://skillicons.dev/icons?i=nginx&theme=dark" width="48" /></a>
+
+&nbsp;
+
+🌐 **Frontend & Mobile**
+
+&nbsp;
+
+<a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" /></a>
+<a href="https://vitejs.dev"><img src="https://skillicons.dev/icons?i=vite&theme=dark" width="48" /></a>
+<a href="https://tailwindcss.com"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="48" /></a>
+<a href="https://developer.android.com"><img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" width="48" /></a>
+<a href="https://expo.dev"><img src="https://skillicons.dev/icons?i=workers&theme=dark" width="48" /></a>
+
+&nbsp;
+
+🗄️ **Databases**
+
+&nbsp;
+
+<a href="https://sqlite.org"><img src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="48" /></a>
+<a href="https://mysql.com"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48" /></a>
+<a href="https://postgresql.org"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48" /></a>
+<a href="https://redis.io"><img src="https://skillicons.dev/icons?i=redis&theme=dark" width="48" /></a>
+
+&nbsp;
+
+🤖 **AI & Automation**
+
+&nbsp;
+
+<a href="https://ollama.com"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="48" /></a>
+<a href="https://n8n.io"><img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="48" /></a>
+<a href="https://github.com/EnrikeRoe"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="48" /></a>
+
+&nbsp;
+
+🎮 **Game Dev**
+
+&nbsp;
+
+<a href="https://godotengine.org"><img src="https://skillicons.dev/icons?i=godot&theme=dark" width="48" /></a>
+
+</div>
+
+&nbsp;
+
+![divider](./assets/divider.svg)
+
+&nbsp;
+
+<div align="center">
+
+![section-contact](./assets/section-contact.svg)
+
+&nbsp;
+
+<a href="https://enriquemartin.me"><img src="https://skillicons.dev/icons?i=workers&theme=dark" width="40" /></a>
+<a href="https://linkedin.com/in/enrikeroe"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="40" /></a>
+<a href="mailto:contact@enriquemartin.me"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="40" /></a>
+
+&nbsp;
+
+<a href="https://enriquemartin.me"><img src="https://img.shields.io/badge/enriquemartin.me-141a26?style=for-the-badge&logoColor=00d4ff" /></a>
+<a href="https://linkedin.com/in/enrikeroe"><img src="https://img.shields.io/badge/EnrikeRoe-141a26?style=for-the-badge&logoColor=00d4ff" /></a>
+<a href="mailto:contact@enriquemartin.me"><img src="https://img.shields.io/badge/contact@enriquemartin.me-141a26?style=for-the-badge&logoColor=d4af37" /></a>
+
+&nbsp;
 
 ![footer](./assets/footer.svg)
+
+</div>
