@@ -117,7 +117,7 @@
 
 <a href="https://enriquemartin.me"><img src="https://img.shields.io/badge/Portfolio-enriquemartin.me-09080f?style=for-the-badge&logo=firefox&logoColor=00d4ff&labelColor=141a26" /></a>
 <a href="https://github.com/tu-usuario">
-  <img src="https://img.shields.io/badge/GitHub-tu-usuario-09080f?style=for-the-badge&logo=github&logoColor=00d4ff&labelColor=141a26" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-Enrikeroe-09080f?style=for-the-badge&logo=github&logoColor=00d4ff&labelColor=141a26" alt="GitHub" />
 </a>
 <a href="mailto:contact@enriquemartin.me"><img src="https://img.shields.io/badge/Email-contact@enriquemartin.me-09080f?style=for-the-badge&logo=gmail&logoColor=d4af37&labelColor=141a26" /></a>
 
