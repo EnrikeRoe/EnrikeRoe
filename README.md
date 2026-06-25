@@ -37,8 +37,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EnrikeRoe/EnrikeRoe/output/github-pacman.svg" />
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/EnrikeRoe/EnrikeRoe/output/github-pacman.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EnrikeRoe/EnrikeRoe/output/pacman-contribution-graph-dark.svg" />
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/EnrikeRoe/EnrikeRoe/output/pacman-contribution-graph-dark.svg" />
 </picture>
 
 </div>
