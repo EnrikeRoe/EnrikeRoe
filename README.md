@@ -47,11 +47,7 @@
 
 ![section-stack](./assets/section-stack.svg)
 
-&nbsp;
-
 🔐 **Security**
-
-&nbsp;
 
 [![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)](https://portswigger.net/burp)
 [![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logoColor=white)](https://www.metasploit.com)
