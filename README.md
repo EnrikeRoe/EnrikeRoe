@@ -103,8 +103,6 @@
 <a href="https://n8n.io"><img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="48" /></a>
 <a href="https://github.com/EnrikeRoe"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="48" /></a>
 
-&nbsp;
-
 🎮 **Game Dev**
 
 <a href="https://godotengine.org"><img src="https://skillicons.dev/icons?i=godot&theme=dark" width="48" /></a>
