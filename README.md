@@ -8,12 +8,6 @@
 
 ![terminal-intro](./assets/terminal-intro.svg)
 
-</div>
-
-![divider](./assets/divider.svg)
-
-<div align="center">
-
 <table style="border-collapse:collapse;border:none;background:transparent;">
 <tr>
 <td width="50%">
@@ -24,6 +18,12 @@
 </td>
 </tr>
 </table>
+
+</div>
+
+![divider](./assets/divider.svg)
+
+<div align="center">
 
 ![section-stats](./assets/section-stats.svg)
 
