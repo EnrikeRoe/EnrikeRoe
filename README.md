@@ -115,17 +115,11 @@
 
 ![section-contact](./assets/section-contact.svg)
 
-<p align="center">
-  <a href="https://enriquemartin.me">
-    <img src="https://img.shields.io/badge/Portfolio-enriquemartin.me-09080f?style=for-the-badge&logo=firefox&logoColor=00d4ff&labelColor=141a26" alt="Portfolio" />
-  </a>
-  <a href="https://linkedin.com/in/enrikeroe">
-    <img src="https://img.shields.io/badge/LinkedIn-EnrikeRoe-09080f?style=for-the-badge&logo=linkedin&logoColor=00d4ff&labelColor=141a26" alt="LinkedIn" />
-  </a>
-  <a href="mailto:contact@enriquemartin.me">
-    <img src="https://img.shields.io/badge/Email-09080f?style=for-the-badge&logo=gmail&logoColor=d4af37&labelColor=141a26" alt="Email" />
-  </a>
-</p>
+<a href="https://enriquemartin.me"><img src="https://img.shields.io/badge/Portfolio-enriquemartin.me-09080f?style=for-the-badge&logo=firefox&logoColor=00d4ff&labelColor=141a26" /></a>
+<a href="https://github.com/tu-usuario">
+  <img src="https://img.shields.io/badge/GitHub-tu-usuario-09080f?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBkPSJNMTIgMEM1LjM3IDAgMCA1LjM3IDAgMTJjMCA1LjMxIDMuNDM1IDkuOCA4LjIwNSAxMS4zODUuNi4xMTMuODItLjI2LjgyLS41NzcgMC0uMjg1LS4wMS0xLjA0LS4wMTUtMi4wNC0zLjMzOC43MjQtNC4wNDItMS42MS00LjA0Mi0xLjYxQzQuNDIyIDE4LjA3IDMuNjMzIDE3LjcgMy42MzMgMTcuN2MtMS4wODctLjc0NC4wODQtLjcyOS4wODQtLjcyOSAxLjIwNS4wODQgMS44MzggMS4yMzYgMS44MzggMS4yMzYgMS4wNyAxLjgzNSAyLjgwOSAxLjMwNSAzLjQ5NS45OTguMTA4LS43NzYuNDE3LTEuMzA1Ljc2LTEuNjA1LTIuNjY1LS4zLTUuNDY2LTEuMzMyLTUuNDY2LTUuOTMgMC0xLjMxLjQ2NS0yLjM4IDEuMjM1LTMuMjItLjEzNS0uMy0uNTQtMS41MjMuMS0zLjE3NSAwIDAgMS4wMDgtLjMyMiAzLjMgMS4yMy45NjUtLjI3IDEuOTgtLjQwNSAzLS40MDUgMS4wMiAwIDIuMDM1LjEzNSAzIC40MDUgMi4yOS0xLjU1MiAzLjI5NS0xLjIzIDMuMjk1LTEuMjMuNjQgMS42NTIuMjM1IDIuODc1LjExNSAzLjE3NS43NjUuODQgMS4yMyAxLjkxIDEuMjMgMy4yMiAwIDQuNjEtMi44MDUgNS42MjUtNS40NzUgNS45Mi40Mi4zNi44MSAxLjA5Ni44MSAyLjIyIDAgMS42MDItLjAxNSAyLjg5NC0uMDE1IDMuMjg2IDAgLjMxNS4yMS42OS44MjUuNTdDMjAuNTY1IDIxLjc5NSAyNCAxNy4zMSAyNCAxMiAyNCA1LjM3IDE4LjYyNyAwIDEyIDB6IiBmaWxsPSIjZmZmIi8+PC9zdmc+&logoColor=00d4ff&labelColor=141a26" alt="GitHub" />
+</a>
+<a href="mailto:contact@enriquemartin.me"><img src="https://img.shields.io/badge/Email-contact@enriquemartin.me-09080f?style=for-the-badge&logo=gmail&logoColor=d4af37&labelColor=141a26" /></a>
 
 ![footer](./assets/footer.svg)
 
