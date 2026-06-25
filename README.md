@@ -67,14 +67,18 @@
 
 &nbsp;
 
-<a href="https://portswigger.net/burp"><img src="https://skillicons.dev/icons?i=burpsuite&theme=dark" width="48" /></a>
-<a href="https://www.metasploit.com"><img src="https://skillicons.dev/icons?i=kali&theme=dark" width="48" /></a>
-<a href="https://nmap.org"><img src="https://skillicons.dev/icons?i=linux&theme=dark" width="48" /></a>
-<a href="https://www.wireshark.org"><img src="https://skillicons.dev/icons?i=wireshark&theme=dark" width="48" /></a>
-<a href="https://owasp.org"><img src="https://skillicons.dev/icons?i=owasp&theme=dark" width="48" /></a>
-<a href="https://sqlmap.org"><img src="https://skillicons.dev/icons?i=sqlmap&theme=dark" width="48" /></a>
-<a href="https://github.com/BloodHoundAD/BloodHound"><img src="https://skillicons.dev/icons?i=graphql&theme=dark" width="48" /></a>
-<a href="https://hashcat.net"><img src="https://skillicons.dev/icons?i=bash&theme=dark" width="48" /></a>
+[![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)](https://portswigger.net/burp)
+[![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logoColor=white)](https://www.metasploit.com)
+[![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logoColor=white)](https://nmap.org)
+[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org)
+[![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org)
+[![SQLMap](https://img.shields.io/badge/SQLMap-CC0000?style=for-the-badge&logoColor=white)](https://sqlmap.org)
+[![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)](https://owasp.org)
+[![BloodHound](https://img.shields.io/badge/BloodHound-CC0000?style=for-the-badge&logoColor=white)](https://github.com/BloodHoundAD/BloodHound)
+[![Hashcat](https://img.shields.io/badge/Hashcat-000000?style=for-the-badge&logoColor=white)](https://hashcat.net)
+[![John the Ripper](https://img.shields.io/badge/John_the_Ripper-8B0000?style=for-the-badge&logoColor=white)](https://www.openwall.com/john)
+[![Hydra](https://img.shields.io/badge/Hydra-1a1a2e?style=for-the-badge&logoColor=white)](https://github.com/vanhauser-thc/thc-hydra)
+[![Autopsy](https://img.shields.io/badge/Autopsy-1B3A4B?style=for-the-badge&logoColor=white)](https://www.autopsy.com)
 
 &nbsp;
 
@@ -113,9 +117,8 @@
 <a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" /></a>
 <a href="https://vitejs.dev"><img src="https://skillicons.dev/icons?i=vite&theme=dark" width="48" /></a>
 <a href="https://tailwindcss.com"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="48" /></a>
-<a href="https://www.framer.com/motion"><img src="https://skillicons.dev/icons?i=framer&theme=dark" width="48" /></a>
-<a href="https://expo.dev"><img src="https://skillicons.dev/icons?i=expo&theme=dark" width="48" /></a>
 <a href="https://developer.android.com"><img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" width="48" /></a>
+<a href="https://expo.dev"><img src="https://skillicons.dev/icons?i=workers&theme=dark" width="48" /></a>
 
 &nbsp;
 
@@ -134,8 +137,9 @@
 
 &nbsp;
 
-<a href="https://ollama.com"><img src="https://skillicons.dev/icons?i=ollama&theme=dark" width="48" /></a>
-<a href="https://n8n.io"><img src="https://skillicons.dev/icons?i=n8n&theme=dark" width="48" /></a>
+<a href="https://ollama.com"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="48" /></a>
+<a href="https://n8n.io"><img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="48" /></a>
+<a href="https://github.com/EnrikeRoe"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="48" /></a>
 
 &nbsp;
 
@@ -159,17 +163,15 @@
 
 &nbsp;
 
-<a href="https://enriquemartin.me">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-enriquemartin.me-141a26?style=for-the-badge&color=141a26&logoColor=00d4ff" />
-</a>
+<a href="https://enriquemartin.me"><img src="https://skillicons.dev/icons?i=workers&theme=dark" width="40" /></a>
+<a href="https://linkedin.com/in/enrikeroe"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="40" /></a>
+<a href="mailto:contact@enriquemartin.me"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="40" /></a>
+
 &nbsp;
-<a href="https://linkedin.com/in/enrikeroe">
-  <img src="https://img.shields.io/badge/💼_LinkedIn-EnrikeRoe-141a26?style=for-the-badge&logo=linkedin&color=141a26&logoColor=0077b5" />
-</a>
-&nbsp;
-<a href="mailto:contact@enriquemartin.me">
-  <img src="https://img.shields.io/badge/📧_Email-contact@enriquemartin.me-141a26?style=for-the-badge&logo=gmail&color=141a26&logoColor=d4af37" />
-</a>
+
+<a href="https://enriquemartin.me"><img src="https://img.shields.io/badge/enriquemartin.me-141a26?style=for-the-badge&logoColor=00d4ff" /></a>
+<a href="https://linkedin.com/in/enrikeroe"><img src="https://img.shields.io/badge/EnrikeRoe-141a26?style=for-the-badge&logoColor=00d4ff" /></a>
+<a href="mailto:contact@enriquemartin.me"><img src="https://img.shields.io/badge/contact@enriquemartin.me-141a26?style=for-the-badge&logoColor=d4af37" /></a>
 
 &nbsp;
 
