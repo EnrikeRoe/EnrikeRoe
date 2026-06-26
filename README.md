@@ -49,18 +49,18 @@
 
 🔐 **Security**
 
-[![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)](https://portswigger.net/burp)
-[![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logoColor=white)](https://www.metasploit.com)
-[![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logoColor=white)](https://nmap.org)
-[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org)
-[![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org)
-[![SQLMap](https://img.shields.io/badge/SQLMap-CC0000?style=for-the-badge&logoColor=white)](https://sqlmap.org)
-[![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)](https://owasp.org)
-[![BloodHound](https://img.shields.io/badge/BloodHound-CC0000?style=for-the-badge&logoColor=white)](https://github.com/BloodHoundAD/BloodHound)
-[![Hashcat](https://img.shields.io/badge/Hashcat-000000?style=for-the-badge&logoColor=white)](https://hashcat.net)
-[![John the Ripper](https://img.shields.io/badge/John_the_Ripper-8B0000?style=for-the-badge&logoColor=white)](https://www.openwall.com/john)
-[![Hydra](https://img.shields.io/badge/Hydra-1a1a2e?style=for-the-badge&logoColor=white)](https://github.com/vanhauser-thc/thc-hydra)
-[![Autopsy](https://img.shields.io/badge/Autopsy-1B3A4B?style=for-the-badge&logoColor=white)](https://www.autopsy.com)
+[![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white&labelColor=141a26)](https://portswigger.net/burp)
+[![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logoColor=white&labelColor=141a26)](https://www.metasploit.com)
+[![Nmap](https://img.shields.io/badge/Nmap-214478?style=flat-square&logoColor=white&labelColor=141a26)](https://nmap.org)
+[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white&labelColor=141a26)](https://www.wireshark.org)
+[![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white&labelColor=141a26)](https://www.kali.org)
+[![SQLMap](https://img.shields.io/badge/SQLMap-CC0000?style=flat-square&logoColor=white&labelColor=141a26)](https://sqlmap.org)
+[![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white&labelColor=141a26)](https://owasp.org)
+[![BloodHound](https://img.shields.io/badge/BloodHound-CC0000?style=flat-square&logoColor=white&labelColor=141a26)](https://github.com/BloodHoundAD/BloodHound)
+[![Hashcat](https://img.shields.io/badge/Hashcat-000000?style=flat-square&logoColor=white&labelColor=141a26)](https://hashcat.net)
+[![John the Ripper](https://img.shields.io/badge/John_the_Ripper-8B0000?style=flat-square&logoColor=white&labelColor=141a26)](https://www.openwall.com/john)
+[![Hydra](https://img.shields.io/badge/Hydra-1a1a2e?style=flat-square&logoColor=white&labelColor=141a26)](https://github.com/vanhauser-thc/thc-hydra)
+[![Autopsy](https://img.shields.io/badge/Autopsy-1B3A4B?style=flat-square&logoColor=white&labelColor=141a26)](https://www.autopsy.com)
 
 💻 **Languages**
 
