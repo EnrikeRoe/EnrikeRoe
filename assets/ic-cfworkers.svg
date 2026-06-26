@@ -1,0 +1,8 @@
+<svg width="48" height="48" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Cloudflare Workers">
+  <rect width="48" height="48" rx="12" fill="#1a1000"/>
+  <rect width="48" height="48" rx="12" fill="none" stroke="#F38020" stroke-width="1" opacity="0.5"/>
+  <!-- Cloud base -->
+  <path d="M10 30 Q10 22 18 22 Q19 16 26 16 Q34 16 34 24 Q38 24 38 30 Z" fill="#F38020" opacity="0.85"/>
+  <!-- Workers lightning bolt -->
+  <polygon points="26,19 21,27 25,27 22,35 29,25 25,25" fill="#1a1000"/>
+</svg>
