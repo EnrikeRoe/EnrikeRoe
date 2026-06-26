@@ -61,6 +61,7 @@
 <a href="https://www.openwall.com/john"><img src="./assets/sec-johntheripper.svg" width="48" /></a>
 <a href="https://github.com/vanhauser-thc/thc-hydra"><img src="./assets/sec-hydra.svg" width="48" /></a>
 <a href="https://www.autopsy.com"><img src="./assets/sec-autopsy.svg" width="48" /></a>
+<br>
 ![OWASP Top 10](https://img.shields.io/badge/OWASP_Top_10-000000?style=flat-square&logo=owasp&logoColor=white&labelColor=141a26)
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-CC0000?style=flat-square&logoColor=white&labelColor=141a26)
 ![NIS2](https://img.shields.io/badge/NIS2-1B3A4B?style=flat-square&logoColor=white&labelColor=141a26)
