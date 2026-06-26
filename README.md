@@ -21,7 +21,7 @@
 &nbsp;
 
 <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=EnrikeRoe&show_icons=true&theme=github_dark&hide_border=true&bg_color=09080f&title_color=00d4ff&icon_color=d4af37&text_color=9aa3b2&count_private=true&include_all_commits=true&rank_icon=github&hide=contribs" />
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=EnrikeRoe&theme=github-dark-blue&hide_border=true&background=09080f&ring=00d4ff&fire=d4af37&currStreakLabel=00d4ff&sideLabels=9aa3b2&dates=9aa3b2&currStreakNum=e8eaed&sideNums=e8eaed" />
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=EnrikeRoe&theme=github-dark-blue&hide_border=true&background=09080f&ring=00d4ff&fire=d4af37&currStreakLabel=00d4ff&sideLabels=9aa3b2&dates=9aa3b2&currStreakNum=e8eaed&sideNums=e8eaed&v=2" />
 
 &nbsp;
 
