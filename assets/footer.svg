@@ -16,7 +16,7 @@
   <rect x="0" y="0" width="12" height="1" fill="#00d4ff" opacity="0.6"/>
   <rect x="668" y="0" width="12" height="1" fill="#00d4ff" opacity="0.6"/>
 
-  <text x="340" y="32" class="mono a1" font-size="11" fill="#9aa3b2" opacity="0.6" text-anchor="middle">// enriquemartin.me · linkedin.com/in/enrikeroe · contact@enriquemartin.me</text>
+  <text x="340" y="32" class="mono a1" font-size="11" fill="#9aa3b2" opacity="0.6" text-anchor="middle">// enriquemartin.me · linkedin.com/in/enrikeroe</text>
   <text x="340" y="56" class="mono a2" font-size="13" fill="#d4af37" text-anchor="middle">Think like an attacker. Build like a defender.</text>
   <text x="340" y="76" class="mono a3" font-size="10" fill="#2a3344" text-anchor="middle">© 2026 Enrique Martín García</text>
 </svg>
