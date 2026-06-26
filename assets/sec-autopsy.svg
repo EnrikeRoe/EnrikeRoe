@@ -1,0 +1,12 @@
+<svg width="48" height="48" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Autopsy">
+  <rect width="48" height="48" rx="12" fill="#080f14"/>
+  <rect width="48" height="48" rx="12" fill="none" stroke="#1B3A4B" stroke-width="1" opacity="0.8"/>
+  <!-- Magnifying glass -->
+  <circle cx="21" cy="21" r="10" stroke="#4a8fa8" stroke-width="2" fill="none"/>
+  <circle cx="21" cy="21" r="6" stroke="#1B3A4B" stroke-width="1" fill="none"/>
+  <!-- Handle -->
+  <line x1="28" y1="28" x2="37" y2="37" stroke="#4a8fa8" stroke-width="3" stroke-linecap="round"/>
+  <!-- Crosshair inner -->
+  <line x1="21" y1="16" x2="21" y2="26" stroke="#4a8fa8" stroke-width="1" opacity="0.5"/>
+  <line x1="16" y1="21" x2="26" y2="21" stroke="#4a8fa8" stroke-width="1" opacity="0.5"/>
+</svg>

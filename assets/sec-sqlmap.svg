@@ -1,0 +1,14 @@
+<svg width="48" height="48" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="SQLMap">
+  <rect width="48" height="48" rx="12" fill="#130000"/>
+  <rect width="48" height="48" rx="12" fill="none" stroke="#CC0000" stroke-width="1" opacity="0.6"/>
+  <!-- DB cylinder top -->
+  <ellipse cx="24" cy="16" rx="12" ry="4" stroke="#CC0000" stroke-width="1.5" fill="none"/>
+  <!-- DB sides -->
+  <line x1="12" y1="16" x2="12" y2="30" stroke="#CC0000" stroke-width="1.5"/>
+  <line x1="36" y1="16" x2="36" y2="30" stroke="#CC0000" stroke-width="1.5"/>
+  <!-- DB bottom -->
+  <path d="M12 30 Q12 34 24 34 Q36 34 36 30" stroke="#CC0000" stroke-width="1.5" fill="none"/>
+  <!-- Injection arrow -->
+  <line x1="24" y1="36" x2="24" y2="42" stroke="#ff4444" stroke-width="2" stroke-linecap="round"/>
+  <path d="M20 39 L24 43 L28 39" stroke="#ff4444" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

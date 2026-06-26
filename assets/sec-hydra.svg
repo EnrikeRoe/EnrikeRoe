@@ -1,0 +1,16 @@
+<svg width="48" height="48" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Hydra">
+  <rect width="48" height="48" rx="12" fill="#080818"/>
+  <rect width="48" height="48" rx="12" fill="none" stroke="#4444aa" stroke-width="1" opacity="0.6"/>
+  <!-- Three hydra heads on necks -->
+  <!-- Left neck + head -->
+  <path d="M24 32 Q16 28 13 20" stroke="#5555cc" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <ellipse cx="12" cy="17" rx="5" ry="4" fill="#4444aa"/>
+  <!-- Center neck + head -->
+  <line x1="24" y1="32" x2="24" y2="18" stroke="#5555cc" stroke-width="2"/>
+  <ellipse cx="24" cy="14" rx="5" ry="4" fill="#5555cc"/>
+  <!-- Right neck + head -->
+  <path d="M24 32 Q32 28 35 20" stroke="#5555cc" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <ellipse cx="36" cy="17" rx="5" ry="4" fill="#4444aa"/>
+  <!-- Body -->
+  <ellipse cx="24" cy="36" rx="8" ry="5" fill="#33338a"/>
+</svg>
