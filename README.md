@@ -47,7 +47,7 @@
 
 ![section-stack](./assets/section-stack.svg)
 
-🔐 **Security**
+<h3>🔐 Security</h3>
 
 <a href="https://portswigger.net/burp"><img src="./assets/sec-burpsuite.svg" width="48" /></a>
 <a href="https://www.metasploit.com"><img src="./assets/sec-metasploit.svg" width="48" /></a>
