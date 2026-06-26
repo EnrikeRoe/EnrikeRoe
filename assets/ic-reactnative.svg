@@ -1,0 +1,15 @@
+<svg width="48" height="48" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="React Native">
+  <rect width="48" height="48" rx="12" fill="#0d1f2d"/>
+  <rect width="48" height="48" rx="12" fill="none" stroke="#61DAFB" stroke-width="1" opacity="0.5"/>
+  <!-- React atom -->
+  <circle cx="24" cy="24" r="3" fill="#61DAFB"/>
+  <!-- Orbit 1 horizontal -->
+  <ellipse cx="24" cy="24" rx="14" ry="5" stroke="#61DAFB" stroke-width="1.5" fill="none"/>
+  <!-- Orbit 2 rotated 60deg -->
+  <ellipse cx="24" cy="24" rx="14" ry="5" stroke="#61DAFB" stroke-width="1.5" fill="none" transform="rotate(60 24 24)"/>
+  <!-- Orbit 3 rotated 120deg -->
+  <ellipse cx="24" cy="24" rx="14" ry="5" stroke="#61DAFB" stroke-width="1.5" fill="none" transform="rotate(120 24 24)"/>
+  <!-- Mobile indicator bottom right -->
+  <rect x="32" y="32" width="10" height="13" rx="2" fill="#0d1f2d" stroke="#61DAFB" stroke-width="1"/>
+  <rect x="34" y="43" width="6" height="1" rx="0.5" fill="#61DAFB"/>
+</svg>
