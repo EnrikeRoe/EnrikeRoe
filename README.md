@@ -61,6 +61,9 @@
 <a href="https://www.openwall.com/john"><img src="./assets/sec-johntheripper.svg" width="48" /></a>
 <a href="https://github.com/vanhauser-thc/thc-hydra"><img src="./assets/sec-hydra.svg" width="48" /></a>
 <a href="https://www.autopsy.com"><img src="./assets/sec-autopsy.svg" width="48" /></a>
+![OWASP Top 10](https://img.shields.io/badge/OWASP_Top_10-000000?style=flat-square&logo=owasp&logoColor=white&labelColor=141a26)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-CC0000?style=flat-square&logoColor=white&labelColor=141a26)
+![NIS2](https://img.shields.io/badge/NIS2-1B3A4B?style=flat-square&logoColor=white&labelColor=141a26)
 
 💻 **Languages**
 
@@ -77,18 +80,24 @@
 <a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48" /></a>
 <a href="https://docker.com"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" /></a>
 <a href="https://cloudflare.com"><img src="https://skillicons.dev/icons?i=cloudflare&theme=dark" width="48" /></a>
+<a href="https://workers.cloudflare.com"><img src="./assets/ic-cfworkers.svg" width="48" /></a>
 <a href="https://linux.org"><img src="https://skillicons.dev/icons?i=linux&theme=dark" width="48" /></a>
 <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" /></a>
 <a href="https://github.com"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" /></a>
 <a href="https://nginx.org"><img src="https://skillicons.dev/icons?i=nginx&theme=dark" width="48" /></a>
+<a href="https://www.vmware.com"><img src="./assets/ic-vmware.svg" width="48" /></a>
+<a href="https://www.virtualbox.org"><img src="./assets/ic-virtualbox.svg" width="48" /></a>
+<a href="https://systemd.io"><img src="./assets/ic-systemd.svg" width="48" /></a>
 
 🌐 **Frontend & Mobile**
 
 <a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" /></a>
 <a href="https://vitejs.dev"><img src="https://skillicons.dev/icons?i=vite&theme=dark" width="48" /></a>
 <a href="https://tailwindcss.com"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="48" /></a>
+<a href="https://reactnative.dev"><img src="./assets/ic-reactnative.svg" width="48" /></a>
+<a href="https://expo.dev"><img src="./assets/ic-expo.svg" width="48" /></a>
+<a href="https://www.framer.com/motion"><img src="./assets/ic-framermotion.svg" width="48" /></a>
 <a href="https://developer.android.com"><img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" width="48" /></a>
-<a href="https://expo.dev"><img src="https://skillicons.dev/icons?i=workers&theme=dark" width="48" /></a>
 
 🗄️ **Databases**
 
@@ -99,9 +108,8 @@
 
 🤖 **AI & Automation**
 
-<a href="https://ollama.com"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="48" /></a>
-<a href="https://n8n.io"><img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="48" /></a>
-<a href="https://github.com/EnrikeRoe"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="48" /></a>
+<a href="https://ollama.com"><img src="./assets/ic-ollama.svg" width="48" /></a>
+<a href="https://n8n.io"><img src="./assets/ic-n8n.svg" width="48" /></a>
 
 🎮 **Game Dev**
 
