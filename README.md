@@ -66,7 +66,7 @@
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-CC0000?style=flat-square&logoColor=white&labelColor=141a26)
 ![NIS2](https://img.shields.io/badge/NIS2-1B3A4B?style=flat-square&logoColor=white&labelColor=141a26)
 
-💻 **Languages**
+<h3>💻 Languages</h3>
 
 <a href="https://python.org"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="48" /></a>
 <a href="https://typescriptlang.org"><img src="https://skillicons.dev/icons?i=ts&theme=dark" width="48" /></a>
@@ -75,7 +75,7 @@
 <a href="https://developer.mozilla.org/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" /></a>
 <a href="https://developer.mozilla.org/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" /></a>
 
-⚙️ **Backend & Infra**
+<h3>⚙️ Backend & Infra</h3>
 
 <a href="https://flask.palletsprojects.com"><img src="https://skillicons.dev/icons?i=flask&theme=dark" width="48" /></a>
 <a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48" /></a>
@@ -90,7 +90,7 @@
 <a href="https://www.virtualbox.org"><img src="./assets/ic-virtualbox.svg" width="48" /></a>
 <a href="https://systemd.io"><img src="./assets/ic-systemd.svg" width="48" /></a>
 
-🌐 **Frontend & Mobile**
+<h3>🌐 Frontend & Mobile</h3>
 
 <a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" /></a>
 <a href="https://vitejs.dev"><img src="https://skillicons.dev/icons?i=vite&theme=dark" width="48" /></a>
@@ -100,19 +100,19 @@
 <a href="https://www.framer.com/motion"><img src="./assets/ic-framermotion.svg" width="48" /></a>
 <a href="https://developer.android.com"><img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" width="48" /></a>
 
-🗄️ **Databases**
+<h3>🗄️ Databases</h3>
 
 <a href="https://sqlite.org"><img src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="48" /></a>
 <a href="https://mysql.com"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48" /></a>
 <a href="https://postgresql.org"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48" /></a>
 <a href="https://redis.io"><img src="https://skillicons.dev/icons?i=redis&theme=dark" width="48" /></a>
 
-🤖 **AI & Automation**
+<h3>🤖 AI & Automation</h3>
 
 <a href="https://ollama.com"><img src="./assets/ic-ollama.svg" width="48" /></a>
 <a href="https://n8n.io"><img src="./assets/ic-n8n.svg" width="48" /></a>
 
-🎮 **Game Dev**
+<h3>🎮 Game Dev</h3>
 
 <a href="https://godotengine.org"><img src="https://skillicons.dev/icons?i=godot&theme=dark" width="48" /></a>
 
